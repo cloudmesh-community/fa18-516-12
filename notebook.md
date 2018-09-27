@@ -19,3 +19,10 @@
 * review the code that Gregor updated, keep working on the cm project
 * reading the lecture sections
 * make contributions to edit the lecture sections
+
+
+# Week Fri 09/21/18 - 09/27/18
+
+* working on the new version of cm project
+* starting on the final project
+* working on the lecture section
