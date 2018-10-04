@@ -26,3 +26,10 @@
 * working on the new version of cm project
 * starting on the final project
 * working on the lecture section
+
+# Week Fri 09/22/18 - 10/04/18
+* working on the awscm project
+* updating the readme file of the awscm
+* implement the draft of advanced part of cm project
+* learning the Spark and try to install on the aws instance.
+* try to use the awscm to delpoy the Spark
