@@ -53,6 +53,11 @@ from advanced import Advanced
   
     
 def process_arguments(arg):
+    """
+    Processes all the input arguments and acts relative processes.
+
+    :param arg: input arguments for the awscm.
+    """
     debug = arg.get('--debug')
     resource = Resource(debug=debug)
     config = Config(debug=debug)
@@ -141,7 +146,9 @@ def process_arguments(arg):
     
     
 def main():
-
+    """
+    Main function for the awscm controler. Processes the input arguments.
+    """
     arguments = docopt(__doc__, version='Cloudmesh Vagrant Manager 0.1')
     process_arguments(arguments)
     
