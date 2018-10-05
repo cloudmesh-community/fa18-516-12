@@ -184,6 +184,7 @@ then we run the command to get the result:
 ```
   python awscm.py advanced a|b|c;d;a+b+c+d
 ```
+___
 
 ### config.py
 
