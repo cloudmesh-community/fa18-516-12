@@ -33,3 +33,9 @@
 * implement the draft of advanced part of cm project
 * learning the Spark and try to install on the aws instance.
 * try to use the awscm to delpoy the Spark
+
+# Week Fri 10/05/18 - 10/11/18
+* finish the AWSCM code
+* finish testing the code
+* read the class materials and book
+* learning Spark
