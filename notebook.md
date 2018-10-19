@@ -39,3 +39,11 @@
 * finish testing the code
 * read the class materials and book
 * learning Spark
+
+# Week Fri 10/12/18 - 10/18/18
+* working on the design document, design the MongoDB schema
+* finished the draft about the initial MongoDB
+  a) install mongodb into specific location
+  b) update the authorization information
+  c) enable the security of MongoDB
+* working on the MongoDB to handle the instance information
