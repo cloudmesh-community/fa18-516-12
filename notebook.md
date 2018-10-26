@@ -47,3 +47,8 @@
   b) update the authorization information
   c) enable the security of MongoDB
 * working on the MongoDB to handle the instance information
+
+# Week Fri 10/19/18 - 10/25/18
+* finished the AWSController that could start, list, stop, info, delete node
+* develop some abstract classes
+* trying to embedd the mongodb class into aws codes
