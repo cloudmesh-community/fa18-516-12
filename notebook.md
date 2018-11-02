@@ -52,3 +52,7 @@
 * finished the AWSController that could start, list, stop, info, delete node
 * develop some abstract classes
 * trying to embedd the mongodb class into aws codes
+
+# Week Fri 10/26/18 - 11/01/18
+* update the VM class to return the provider from libcloud for AWS, AZURE, OPENSTACK. 
+* the user could only call vm class to stop, start, list, suspend, resume, destroy node
