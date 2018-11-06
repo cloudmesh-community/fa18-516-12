@@ -5,14 +5,21 @@ owner:
   hid: "fa18-516-12"
   community: "e516"
 section:
-    - title: TBD
+    - title: working on the MongoDB for cm4
       url: 
 paper:
-    - title: TBD
-      url:          
+    - title: working on the vm description for cm4
+      url: 
 project:
-    - title: TBD
-      url: 
+    - title: cm4
+      url: https://github.com/cloudmesh-community/cm
 other:
-    - activity: TBD
-      url: 
+    - activity: contribute to the AWS in cm4 project
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/aws
+    - activity: contribute to the vm in cm4 project
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vm
+    - activity: contribute to the MongoDB in cm4 project
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vm
+    - activity: contribute to the MongoDB in cm4 project
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/cmmongo
+      
