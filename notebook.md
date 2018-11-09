@@ -56,3 +56,7 @@
 # Week Fri 10/26/18 - 11/01/18
 * update the VM class to return the provider from libcloud for AWS, AZURE, OPENSTACK. 
 * the user could only call vm class to stop, start, list, suspend, resume, destroy node
+
+# Week Fri 11/02/18 - 11/08/18
+* update the VM class
+* prepare the demo to run vm class and use the mongodb
