@@ -60,3 +60,4 @@
 # Week Fri 11/02/18 - 11/08/18
 * update the VM class
 * prepare the demo to run vm class and use the mongodb
+* working on the readme file for vm and mongodb
