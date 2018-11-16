@@ -61,3 +61,7 @@
 * update the VM class
 * prepare the demo to run vm class and use the mongodb
 * working on the readme file for vm and mongodb
+
+# Week Fri 11/09/18 - 11/15/18
+* use thread in mongodb to update the status of node.
+* modify the vm class
