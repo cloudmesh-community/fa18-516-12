@@ -6,10 +6,10 @@ owner:
   community: "e516"
 section:
     - title: working on the MongoDB for cm4
-      url: 
+      url: https://github.com/cloudmesh-community/cm/blob/master/documentation/source/CM4README.md
 paper:
     - title: working on the vm description for cm4
-      url: 
+      url: https://github.com/cloudmesh-community/cm/blob/master/documentation/source/CM4README.md
 project:
     - title: cm4
       url: https://github.com/cloudmesh-community/cm
@@ -19,5 +19,5 @@ other:
     - activity: contribute to the vm in cm4 project
       url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vm
     - activity: contribute to the MongoDB in cm4 project
-      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/cmmongo
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/mongo
       
